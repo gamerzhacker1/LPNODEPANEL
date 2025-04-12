@@ -7,7 +7,7 @@
   "version": "0.4.0",
   "note": "you can also use Mysql if you put mysql://user:pass@localhost:3306/dbname into databaseURL!",
   "databaseURL": "sqlite://skyport.db",
-  "databaseTable": "jtg-panel",
-  "ogTitle": "jtg-panel",
-  "ogDescription": "This is an instance of the jtg-panel - learn more at github.com/JishnuTheGamer/jtg-panel"
+  "databaseTable": "lpnodepanel",
+  "ogTitle": "lpnodepanel",
+  "ogDescription": "This is an instance of the lpnodepanel - learn more at github.com/gamerzhacker1/lpnodepanel"
 }
